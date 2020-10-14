@@ -12,3 +12,5 @@ npm start
 ```
 ## How look this app?
 Below you'll see welcome and registration pages.
+![welcome](project-pictures/welcome.PNG)
+![register](project-pictures/register.PNG)
